@@ -1,0 +1,18 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.box{
+
+	margin: 5px;
+	float: left;
+	border: 2px solid #cccccc;
+	box-shadow: 0 0 3px #cccccc;
+	border-radius: 5px	
+}
+
+.box img{
+	width: 190px;
+	height: auto;
+	margin: 5px;
+}
